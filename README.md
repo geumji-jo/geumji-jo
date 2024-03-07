@@ -1,6 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ADBAE3&height=150&section=header&text=WELCOME!GeunjiGithub&fontColor=4D377B&fontSize=50&animation=fadeIn&fontAlignY=35" />
- <H1> Hi there!👋</H1>
+ <H1 align="center"> Hi there!👋</H1>
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geumji-jo&layout=compact" />
 </div>

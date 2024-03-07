@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ADBAE3&height=150&section=header&text=Geumji_Github&fontColor=4D377B&fontSize=50&animation=fadeIn&fontAlignY=35)
 
-<h1 align="center"> Hi there!👋</h1>
+<h1 align="center">안녕하세요🙋‍♀️</h1>
 <div align="center">
- <p>안녕하세요🙋‍♀️</p>
  <p>새로움에 흥미를 느끼고, 적용하고 발전하는 ✨풀스택 개발자 조은지✨입니다</p>
  <p>사용자 중심의 웹애플리케이션을 제공하기 위해 끊임없이 생각하고 노력하며,</p>
  <p>협업과 커뮤니케이션을 중요하게 생각합니다!</p>

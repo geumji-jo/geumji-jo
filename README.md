@@ -31,11 +31,14 @@
 
 <br>
 <br>
-
-
-
- <br>
+<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geumji-jo&layout=compact" />
+  
+<br>
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeumji-jo%2Fhit-counter&count_bg=%23C5E7FA&title_bg=%23E7DBFE&icon=&icon_color=%23FFFFFF&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
+  
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=D0C8E6&height=150&section=footer)
